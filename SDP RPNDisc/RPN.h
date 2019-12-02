@@ -6,7 +6,7 @@
 /*
  * We support +, -, /, %, *
  * Note: same as Shegunov's implementation and wiki implementation.
-  https://learn.fmi.uni-sofia.bg/mod/folder/view.php?id=130137
+ * https://learn.fmi.uni-sofia.bg/mod/folder/view.php?id=130137
  * Difference is it supports multi digit.
  * For his infixToPostfix function just use the same while loop to
  * have it support multi digit.
